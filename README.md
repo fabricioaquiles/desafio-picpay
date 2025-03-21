@@ -34,7 +34,7 @@ Este repositório contém a implementação do desafio proposto pelo PicPay Simp
 
 # 📌 Endpoints da API
 
-## 1️⃣ Criar uma Transação
+## 1️⃣ Realizar uma transferência
 **📌 POST /transfer**
 
 **Descrição:** Realiza uma transação entre usuários.
